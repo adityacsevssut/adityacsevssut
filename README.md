@@ -36,15 +36,14 @@
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!-- SOCIAL BADGES                                                -->
+<!-- SOCIAL ICONS — Icon only, no text labels                    -->
 <!-- ══════════════════════════════════════════════════════════ -->
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-adityacsevssut-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityacsevssut)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Nahak-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![LeetCode](https://img.shields.io/badge/LeetCode-YOUR__USERNAME-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00B4D8?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+<a href="https://github.com/adityacsevssut"><img src="https://img.shields.io/badge/-%20-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/-%20-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/-%20-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
 </div>
 
@@ -58,28 +57,14 @@
 
 ## About Me
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+> B.Tech in Computer Science & Engineering &nbsp;·&nbsp; VSSUT, Burla &nbsp;·&nbsp; Class of 2028
 
-**Name &nbsp;·&nbsp;** Aditya Nahak  
-**Degree &nbsp;·&nbsp;** B.Tech in Computer Science & Engineering  
-**College &nbsp;·&nbsp;** VSSUT, Burla — Batch of 2028  
-**Location &nbsp;·&nbsp;** Odisha, India  
-**Open To &nbsp;·&nbsp;** Internships & Open Source Collaboration  
+I am a passionate software developer with a strong foundation in full-stack web development and competitive programming. Currently in my second year at VSSUT, I focus on building production-grade applications, solving complex algorithmic problems, and exploring cloud-native technologies.
 
-  </td>
-  <td valign="top" width="50%">
-
-- Building production-grade apps with the **MERN Stack**
-- Sharpening problem-solving through **Competitive Programming**
-- Exploring **Machine Learning** and **System Design**
-- Diving deeper into **Cloud Infrastructure** with AWS & Kubernetes
-- Actively looking for **open-source** opportunities
-
-  </td>
-  </tr>
-</table>
+**Currently working on** &nbsp;—&nbsp; Full-stack MERN applications and open-source projects  
+**Learning** &nbsp;—&nbsp; Machine Learning fundamentals, System Design & Cloud Infrastructure  
+**Looking for** &nbsp;—&nbsp; Software engineering internships & open-source collaboration  
+**Location** &nbsp;—&nbsp; Odisha, India  
 
 <br/>
 
@@ -92,131 +77,22 @@
 ## Tech Stack
 
 **Programming Languages**
-
 <img src="https://skillicons.dev/icons?i=cpp,py&theme=dark" alt="Languages"/>
 
-<br/>
-
 **Frontend Development**
-
 <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind&theme=dark" alt="Frontend"/>
 
-<br/>
-
 **Backend Development**
-
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend"/>
 
-<br/>
-
 **Databases**
-
 <img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark" alt="Databases"/>
 
-<br/>
-
 **Cloud & DevOps**
-
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes&theme=dark" alt="Cloud and DevOps"/>
 
-<br/>
-
 **Tools & Platforms**
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools"/>
-
-<br/>
-
----
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!-- GITHUB STATISTICS                                            -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-## GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=adityacsevssut&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&border_radius=10&count_private=true&rank_icon=github" height="175" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=adityacsevssut&hide_border=true&background=0d1117&stroke=00b4d8&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8&sideLabels=c9d1d9&dates=c9d1d9&border_radius=10" height="175" alt="GitHub Streak"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityacsevssut&layout=compact&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&border_radius=10&langs_count=8" height="160" alt="Top Languages"/>
-
-</div>
-
-<br/>
-
----
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!-- GITHUB TROPHIES                                              -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=adityacsevssut&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="GitHub Trophies"/>
-
-</div>
-
-<br/>
-
----
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!-- FEATURED PROJECTS                                            -->
-<!-- Replace YOUR_REPO_1 etc. with your actual repository names -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-## Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/adityacsevssut/YOUR_REPO_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityacsevssut&repo=YOUR_REPO_1&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&icon_color=00b4d8&border_radius=10" alt="Project 1"/>
-</a>
-&nbsp;
-<a href="https://github.com/adityacsevssut/YOUR_REPO_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityacsevssut&repo=YOUR_REPO_2&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&icon_color=00b4d8&border_radius=10" alt="Project 2"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/adityacsevssut/YOUR_REPO_3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityacsevssut&repo=YOUR_REPO_3&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&icon_color=00b4d8&border_radius=10" alt="Project 3"/>
-</a>
-&nbsp;
-<a href="https://github.com/adityacsevssut/YOUR_REPO_4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adityacsevssut&repo=YOUR_REPO_4&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&icon_color=00b4d8&border_radius=10" alt="Project 4"/>
-</a>
-
-</div>
-
-<br/>
-
----
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!-- CODING PROFILES                                              -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-## Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-YOUR__USERNAME-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_USERNAME)
-[![Codeforces](https://img.shields.io/badge/Codeforces-YOUR__USERNAME-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_USERNAME)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-YOUR__USERNAME-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/YOUR_USERNAME)
-
-</div>
 
 <br/>
 
@@ -240,7 +116,6 @@
 
 <!-- ══════════════════════════════════════════════════════════ -->
 <!-- SNAKE ANIMATION                                              -->
-<!-- Requires GitHub Actions — see setup instructions below      -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
 ## Contribution Snake
@@ -299,8 +174,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=adityacsevssut&style=for-the-badge&color=00b4d8&label=PROFILE+VIEWS)
 
 </div>
-
-<br/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
 <!-- FOOTER                                                       -->
