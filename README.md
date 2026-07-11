@@ -277,33 +277,6 @@
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!-- GOALS                                                        -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-## Goals — 2026 to 2028
-
-**2026**
-- [ ] Land a software engineering internship at a product-based company
-- [ ] Reach LeetCode 1600+ rating
-- [ ] Build and deploy 3 production-ready full-stack projects
-- [ ] Earn AWS Cloud Practitioner certification
-
-**2027**
-- [ ] Contribute meaningfully to a major open-source project
-- [ ] Master System Design fundamentals
-- [ ] Explore Machine Learning in production environments
-- [ ] Complete a high-impact summer internship
-
-**2028**
-- [ ] Graduate with distinction from VSSUT
-- [ ] Secure a full-time SDE role at a top-tier company
-- [ ] Launch an independently built side project
-
-<br/>
-
----
-
-<!-- ══════════════════════════════════════════════════════════ -->
 <!-- QUOTE                                                        -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
