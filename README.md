@@ -33,21 +33,6 @@
 
 </div>
 
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!-- SOCIAL ICONS — Icon only, no text labels                    -->
-<!-- ══════════════════════════════════════════════════════════ -->
-<div align="center">
-
-<a href="https://github.com/adityacsevssut"><img src="https://img.shields.io/badge/-%20-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/-%20-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/-%20-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-
-</div>
-
-<br/>
 
 ---
 
@@ -107,26 +92,6 @@ I am a passionate software developer with a strong foundation in full-stack web 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityacsevssut&bg_color=0d1117&color=00b4d8&line=0077b6&point=00b4d8&area=true&area_color=00b4d820&hide_border=true" alt="Contribution Graph" width="100%"/>
-
-</div>
-
-<br/>
-
----
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!-- SNAKE ANIMATION                                              -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityacsevssut/adityacsevssut/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityacsevssut/adityacsevssut/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/adityacsevssut/adityacsevssut/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
 
 </div>
 
